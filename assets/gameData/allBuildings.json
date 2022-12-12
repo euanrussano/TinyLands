@@ -1,0 +1,124 @@
+{"buildings":[
+      {
+        "class": "Building",
+        "name": "Town Center",
+        "texture": "medievalStructure_17.png",
+        "materialsToBuild": [],
+        "attributes": []
+      },
+      {
+        "class": "Building",
+        "name": "House",
+        "texture": "medievalStructure_18.png",
+        "materialsToBuild": [
+          {
+            "class": "ResourceInstance",
+            "name": "Wood",
+            "quantity": 1
+          }
+        ],
+        "attributes": [
+          {
+            "class": "com.sophia.tinylands.buildings.attributes.Residential",
+            "maxNumberOfResidents": 3
+          },
+          {
+            "class": "com.sophia.tinylands.buildings.attributes.MaintenancePerTurn",
+            "resourceInstances": [
+              {
+                "class": "ResourceInstance",
+                "name": "Food",
+                "quantity": 1
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class": "Building",
+        "name": "Wood camper",
+        "texture": "medievalStructure_20.png",
+        "materialsToBuild": [],
+        "attributes": [
+          {
+            "class": "com.sophia.tinylands.buildings.attributes.ResourcePerTurn",
+            "resourceInstances": [
+              {
+                "class": "ResourceInstance",
+                "name": "Wood",
+                "quantity": 5
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class": "Building",
+        "name": "Mine",
+        "texture": "medievalStructure_03.png",
+        "materialsToBuild": [
+          {
+            "class": "ResourceInstance",
+            "name": "Wood",
+            "quantity": 2
+          }
+        ],
+        "attributes": [
+          {
+            "class": "com.sophia.tinylands.buildings.attributes.ResourcePerTurn",
+            "resourceInstances": [
+              {
+                "class": "ResourceInstance",
+                "name": "Stone",
+                "quantity": 2
+              }
+            ]
+          },
+          {
+            "class": "com.sophia.tinylands.buildings.attributes.MaintenancePerTurn",
+            "resourceInstances": [
+              {
+                "class": "ResourceInstance",
+                "name": "Wood",
+                "quantity": 2
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "class": "Building",
+        "name": "Farm Plot",
+        "texture": "medievalTile_56.png",
+        "materialsToBuild": [
+          {
+            "class": "ResourceInstance",
+            "name": "Wood",
+            "quantity": 2
+          }
+        ],
+        "attributes": [
+          {
+            "class": "com.sophia.tinylands.buildings.attributes.ResourcePerTurn",
+            "resourceInstances": [
+              {
+                "class": "ResourceInstance",
+                "name": "Food",
+                "quantity": 5
+              }
+            ]
+          },
+          {
+            "class": "com.sophia.tinylands.buildings.attributes.MaintenancePerTurn",
+            "resourceInstances": [
+              {
+                "class": "ResourceInstance",
+                "name": "Wood",
+                "quantity": 1
+              }
+            ]
+          }
+        ]
+      }
+  ]
+}

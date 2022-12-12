@@ -1,0 +1,21 @@
+{
+  "resources": [
+    {
+      "class": "Resource",
+      "name": "Population"
+    },
+    {
+      "class": "Resource",
+      "name": "Food"
+    },
+    {
+      "class": "Resource",
+      "name": "Stone"
+    },
+    {
+      "class": "Resource",
+      "name": "Wood"
+    }
+  ]
+}
+

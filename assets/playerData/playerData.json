@@ -1,0 +1,16 @@
+{
+  "buildingInstances": [
+  ],
+  "resourceInstances": [
+    {
+      "class": "ResourceInstance",
+      "name": "Food",
+      "quantity": 0
+    },
+    {
+      "class": "ResourceInstance",
+      "name": "Wood",
+      "quantity": 0
+    }
+  ]
+}

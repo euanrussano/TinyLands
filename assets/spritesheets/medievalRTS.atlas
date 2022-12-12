@@ -1,0 +1,887 @@
+
+medievalRTS_spritesheet.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+medievalEnvironment_01.png
+  rotate: false
+  xy: 534, 275
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1
+medievalEnvironment_02.png
+  rotate: false
+  xy: 515, 256
+  size: 19, 46
+  orig: 19, 46
+  offset: 0, 0
+  index: -1
+medievalEnvironment_03.png
+  rotate: false
+  xy: 516, 514
+  size: 19, 33
+  orig: 19, 33
+  offset: 0, 0
+  index: -1
+medievalEnvironment_04.png
+  rotate: false
+  xy: 511, 314
+  size: 26, 48
+  orig: 26, 48
+  offset: 0, 0
+  index: -1
+medievalEnvironment_05.png
+  rotate: false
+  xy: 526, 499
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+medievalEnvironment_06.png
+  rotate: false
+  xy: 384, 298
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+medievalEnvironment_07.png
+  rotate: false
+  xy: 531, 162
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+medievalEnvironment_08.png
+  rotate: false
+  xy: 479, 354
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+medievalEnvironment_09.png
+  rotate: false
+  xy: 475, 140
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+medievalEnvironment_10.png
+  rotate: false
+  xy: 475, 105
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+medievalEnvironment_11.png
+  rotate: false
+  xy: 475, 70
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+medievalEnvironment_12.png
+  rotate: false
+  xy: 472, 35
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+medievalEnvironment_13.png
+  rotate: false
+  xy: 511, 410
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+medievalEnvironment_14.png
+  rotate: false
+  xy: 526, 458
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+medievalEnvironment_15.png
+  rotate: false
+  xy: 479, 422
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+medievalEnvironment_16.png
+  rotate: false
+  xy: 458, 504
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+medievalEnvironment_17.png
+  rotate: false
+  xy: 434, 48
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+medievalEnvironment_18.png
+  rotate: false
+  xy: 474, 0
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+medievalEnvironment_19.png
+  rotate: false
+  xy: 436, 0
+  size: 38, 35
+  orig: 38, 35
+  offset: 0, 0
+  index: -1
+medievalEnvironment_20.png
+  rotate: false
+  xy: 511, 233
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+medievalEnvironment_21.png
+  rotate: false
+  xy: 511, 362
+  size: 21, 48
+  orig: 21, 48
+  offset: 0, 0
+  index: -1
+medievalStructure_01.png
+  rotate: false
+  xy: 475, 222
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+medievalStructure_02.png
+  rotate: false
+  xy: 252, 512
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+medievalStructure_03.png
+  rotate: false
+  xy: 312, 512
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+medievalStructure_04.png
+  rotate: false
+  xy: 414, 507
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+medievalStructure_05.png
+  rotate: false
+  xy: 431, 144
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+medievalStructure_06.png
+  rotate: false
+  xy: 192, 512
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+medievalStructure_07.png
+  rotate: false
+  xy: 64, 512
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+medievalStructure_08.png
+  rotate: false
+  xy: 479, 382
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+medievalStructure_09.png
+  rotate: false
+  xy: 380, 447
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+medievalStructure_10.png
+  rotate: false
+  xy: 431, 186
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+medievalStructure_11.png
+  rotate: false
+  xy: 435, 310
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+medievalStructure_12.png
+  rotate: false
+  xy: 511, 197
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+medievalStructure_13.png
+  rotate: false
+  xy: 382, 383
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+medievalStructure_14.png
+  rotate: false
+  xy: 320, 320
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+medievalStructure_15.png
+  rotate: false
+  xy: 320, 383
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+medievalStructure_16.png
+  rotate: false
+  xy: 435, 350
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+medievalStructure_17.png
+  rotate: false
+  xy: 431, 84
+  size: 44, 60
+  orig: 44, 60
+  offset: 0, 0
+  index: -1
+medievalStructure_18.png
+  rotate: false
+  xy: 431, 262
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+medievalStructure_19.png
+  rotate: false
+  xy: 383, 320
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+medievalStructure_20.png
+  rotate: false
+  xy: 384, 0
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+medievalStructure_21.png
+  rotate: false
+  xy: 320, 447
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+medievalStructure_22.png
+  rotate: false
+  xy: 479, 314
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+medievalStructure_23.png
+  rotate: false
+  xy: 431, 226
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+medievalTile_01.png
+  rotate: false
+  xy: 0, 384
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_02.png
+  rotate: false
+  xy: 0, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_03.png
+  rotate: false
+  xy: 64, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_04.png
+  rotate: false
+  xy: 64, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_05.png
+  rotate: false
+  xy: 64, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_06.png
+  rotate: false
+  xy: 64, 384
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_07.png
+  rotate: false
+  xy: 64, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_08.png
+  rotate: false
+  xy: 496, 450
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+medievalTile_09.png
+  rotate: false
+  xy: 0, 512
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+medievalTile_10.png
+  rotate: false
+  xy: 128, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_11.png
+  rotate: false
+  xy: 128, 128
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+medievalTile_12.png
+  rotate: false
+  xy: 128, 367
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+medievalTile_13.png
+  rotate: false
+  xy: 320, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_14.png
+  rotate: false
+  xy: 320, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_15.png
+  rotate: false
+  xy: 320, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_16.png
+  rotate: false
+  xy: 256, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_17.png
+  rotate: false
+  xy: 128, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_18.png
+  rotate: false
+  xy: 192, 320
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_19.png
+  rotate: false
+  xy: 0, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_20.png
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_21.png
+  rotate: false
+  xy: 64, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_22.png
+  rotate: false
+  xy: 384, 84
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+medievalTile_23.png
+  rotate: false
+  xy: 436, 410
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+medievalTile_24.png
+  rotate: false
+  xy: 364, 507
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+medievalTile_25.png
+  rotate: false
+  xy: 384, 127
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+medievalTile_26.png
+  rotate: false
+  xy: 384, 234
+  size: 47, 64
+  orig: 47, 64
+  offset: 0, 0
+  index: -1
+medievalTile_27.png
+  rotate: false
+  xy: 192, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_28.png
+  rotate: false
+  xy: 320, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_29.png
+  rotate: false
+  xy: 0, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_30.png
+  rotate: false
+  xy: 0, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_31.png
+  rotate: false
+  xy: 192, 384
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_32.png
+  rotate: false
+  xy: 256, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_33.png
+  rotate: false
+  xy: 128, 303
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_34.png
+  rotate: false
+  xy: 192, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_35.png
+  rotate: false
+  xy: 320, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_36.png
+  rotate: false
+  xy: 436, 457
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+medievalTile_37.png
+  rotate: false
+  xy: 384, 191
+  size: 47, 43
+  orig: 47, 43
+  offset: 0, 0
+  index: -1
+medievalTile_38.png
+  rotate: false
+  xy: 384, 48
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+medievalTile_39.png
+  rotate: false
+  xy: 475, 172
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+medievalTile_40.png
+  rotate: false
+  xy: 479, 264
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+medievalTile_41.png
+  rotate: false
+  xy: 256, 448
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_42.png
+  rotate: false
+  xy: 256, 384
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_43.png
+  rotate: false
+  xy: 256, 320
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_44.png
+  rotate: false
+  xy: 256, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_45.png
+  rotate: false
+  xy: 256, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_46.png
+  rotate: false
+  xy: 128, 239
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_47.png
+  rotate: false
+  xy: 256, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_48.png
+  rotate: false
+  xy: 64, 320
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_49.png
+  rotate: false
+  xy: 64, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_50.png
+  rotate: false
+  xy: 128, 175
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_51.png
+  rotate: false
+  xy: 0, 320
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_52.png
+  rotate: false
+  xy: 0, 256
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_53.png
+  rotate: false
+  xy: 192, 192
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_54.png
+  rotate: false
+  xy: 192, 128
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_55.png
+  rotate: false
+  xy: 192, 64
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_56.png
+  rotate: false
+  xy: 192, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_57.png
+  rotate: false
+  xy: 128, 478
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalTile_58.png
+  rotate: false
+  xy: 128, 414
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+medievalUnit_01.png
+  rotate: false
+  xy: 496, 514
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+medievalUnit_02.png
+  rotate: false
+  xy: 526, 433
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+medievalUnit_03.png
+  rotate: false
+  xy: 510, 35
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+medievalUnit_04.png
+  rotate: false
+  xy: 533, 51
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_05.png
+  rotate: false
+  xy: 532, 386
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_06.png
+  rotate: false
+  xy: 479, 450
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_07.png
+  rotate: false
+  xy: 513, 136
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+medievalUnit_08.png
+  rotate: false
+  xy: 530, 26
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+medievalUnit_09.png
+  rotate: false
+  xy: 513, 111
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+medievalUnit_10.png
+  rotate: false
+  xy: 479, 474
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_11.png
+  rotate: false
+  xy: 531, 203
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_12.png
+  rotate: false
+  xy: 533, 123
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_13.png
+  rotate: false
+  xy: 512, 0
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+medievalUnit_14.png
+  rotate: false
+  xy: 531, 178
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+medievalUnit_15.png
+  rotate: false
+  xy: 513, 60
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+medievalUnit_16.png
+  rotate: false
+  xy: 531, 227
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_17.png
+  rotate: false
+  xy: 532, 0
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_18.png
+  rotate: false
+  xy: 532, 362
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_19.png
+  rotate: false
+  xy: 513, 85
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+medievalUnit_20.png
+  rotate: false
+  xy: 526, 474
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+medievalUnit_21.png
+  rotate: false
+  xy: 511, 172
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+medievalUnit_22.png
+  rotate: false
+  xy: 533, 75
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_23.png
+  rotate: false
+  xy: 533, 99
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+medievalUnit_24.png
+  rotate: false
+  xy: 534, 251
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
